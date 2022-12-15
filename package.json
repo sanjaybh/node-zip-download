@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sb/fc-version-download.git"
+    "url": "git+https://github.com/sanjaybh/node-zip-download.git"
   },
   "author": "Sanjay Bhan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sb/fc-version-download/issues"
+    "url": "https://github.com/sanjaybh/node-zip-download/issues"
   },
-  "homepage": "https://github.com/sb/fc-version-download#readme",
+  "homepage": "https://github.com/sanjaybh/node-zip-download#readme",
   "dependencies": {
     "adm-zip": "^0.4.7",
     "colors": "^1.4.0",
