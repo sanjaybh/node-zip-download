@@ -1,0 +1,24 @@
+{
+  "name": "node-zip-download",
+  "version": "1.0.0",
+  "description": "This app will download bundle from the CDN and unzip the bundle and then put in the specified location using Node JS",
+  "main": "index.js",
+  "scripts": {
+    "loadFiles": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sb/fc-version-download.git"
+  },
+  "author": "Sanjay Bhan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sb/fc-version-download/issues"
+  },
+  "homepage": "https://github.com/sb/fc-version-download#readme",
+  "dependencies": {
+    "adm-zip": "^0.4.7",
+    "colors": "^1.4.0",
+    "superagent": "^3.8.2"
+  }
+}
