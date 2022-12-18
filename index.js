@@ -25,7 +25,9 @@ function readInput(callback){
     }
     console.log(`Please wait while we process your request for ${fcVersion}...`.green)
     readline.close();
-    callback(fcVersion);
+
+    console.log("selected Version - ", fcVersion);
+    //callback(fcVersion);
   });
 }
 
